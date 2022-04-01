@@ -8,3 +8,12 @@ Added a basic script to populate Screener and Marketsmith Links beside the watch
 
 - After Adding Extension: Notice M, S beside the last price. They will lead to Marketsmith and Screener of that stock
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/11522905/161256294-1fa19bf5-cdae-451a-afad-5bd0d3881bda.png">
+
+## Steps to Add this to Chrome
+- Download this repository, either zip or clone.
+- Go to [chrome://extensions/](chrome://extensions/)
+- Enable developer mode on the top right.
+- Click Load unpacked on the top left.
+- Select the extension folder from this downloaded repository. 
+- Go to [https://in.tradingview.com/chart/](https://in.tradingview.com/chart/) and you should be able to view the change
+ 
