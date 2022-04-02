@@ -2,7 +2,7 @@
 		
 	"name": "Expand Trading View",
 	"description": "Extension to enhance trading view experience",
-	"version": "1.0",
+	"version": "1.1",
 	"manifest_version":3,
 	"permissions":["activeTab"],
 	"content_scripts":[
