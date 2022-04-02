@@ -1,6 +1,9 @@
 # ExpandTradingView
 This extension is aimed at expanding the [https://in.tradingview.com/chart/](https://in.tradingview.com/chart/) experience by adding some additional functionalities to the page.
 
+## Version 1.1
+Added the Screener and Marketsmith Links to Screener Tab list. Thanks to @arung0wda
+
 ## Version 1.0
 Added a basic script to populate Screener and Marketsmith Links beside the watchlist items on page load.
 - Before Adding Extension
