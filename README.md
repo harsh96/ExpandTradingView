@@ -3,6 +3,8 @@ This extension is aimed at expanding the [https://in.tradingview.com/chart/](htt
 
 ## Version 1.1
 Added the Screener and Marketsmith Links to Screener Tab list. Thanks to @arung0wda
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/11522905/162130617-e5fc8668-4fed-4801-b6b3-4ff13f7ddb57.png">
+
 
 ## Version 1.0
 Added a basic script to populate Screener and Marketsmith Links beside the watchlist items on page load.
